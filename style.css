@@ -312,8 +312,7 @@ form.sign-in-form {
   }
 
   .left-panel {
-    grid-row: 1 / 2;
-  }
+width: 120%;  }
 
   .image {
     width: 200px;
